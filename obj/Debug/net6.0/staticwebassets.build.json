@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qfNa9ujidtzXMsl/PRP7fxzSdZ+qlyCVXmWB9ZjGZug=",
+  "Source": "multitenant",
+  "BasePath": "_content/multitenant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

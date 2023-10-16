@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20577634-a39a-4d10-bdfe-b704ad96da49": {
+      "ProjectGuid": "20577634-a39a-4d10-bdfe-b704ad96da49",
+      "DisplayName": "multitenant",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
